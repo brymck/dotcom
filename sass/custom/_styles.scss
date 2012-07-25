@@ -1,6 +1,7 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+// Border main section
 @media only screen and (min-width: 768px) {
   #main {
     border-left: solid 1px #e0e0e0;
@@ -12,9 +13,26 @@
   }
 }
 
+// Highlight links only on hover
 a {
   text-decoration: none;
   &:hover {
     text-decoration: underline;
+  }
+}
+
+// Search box
+body > nav form .search {
+  @include border-radius(.5em);
+  @include background-clip(padding-box);
+  @include box-shadow(lighten($nav-bg, 8) 0 1px);
+  background-color: lighten($nav-bg, 15);
+  border: 1px solid $nav-border;
+  &:focus {
+    color: #444;
+    border-color: #80b1df;
+    @include box-shadow(#80b1df 0 0 4px, #80b1df 0 0 3px inset);
+    background-color: #fff;
+    outline: none;
   }
 }

@@ -17,7 +17,7 @@ $subtitle-color: #555;
 //$nav-bg: desaturate(lighten(#8fc17a, 18), 5);
 $nav-bg-front: none; //image-url('noise.png');
 $nav-bg-back: none; //linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));
-$nav-border: none;
+$nav-border: #ccc;
 $nav-border-top: none;
 $nav-border-bottom: none;
 $nav-border-left: none;
@@ -34,22 +34,22 @@ $footer-bg-back: none; //linear-gradient(lighten($footer-bg, 8), $footer-bg, dar
 $solarized: light;
 
 /* If you want to tweak the Solarized colors you can do that here */
-//$base03:          #002b36; //darkest blue
-//$base02:          #073642; //dark blue
-//$base01:          #586e75; //darkest gray
-//$base00:          #657b83; //dark gray
-//$base0:           #839496; //medium gray
-//$base1:           #93a1a1; //medium light gray
-//$base2:           #eee8d5; //cream
-//$base3:           #fdf6e3; //white
-//$solar-yellow:    #b58900;
-//$solar-orange:    #cb4b16;
-//$solar-red:       #dc322f;
-//$solar-magenta:   #d33682;
-//$solar-violet:    #6c71c4;
-//$solar-blue:      #268bd2;
-//$solar-cyan:      #2aa198;
-//$solar-green:     #859900;
+//$base03:          #000;    //#002b36; //darkest blue
+//$base02:          #000;    //#073642; //dark blue
+//$base01:          #fff;    //#586e75; //darkest gray
+//$base00:          #fff;    //#657b83; //dark gray
+//$base0:           #fff;    //#839496; //medium gray
+//$base1:           #fff;    //#93a1a1; //medium light gray
+//$base2:           #fff;    //#eee8d5; //cream
+//$base3:           #fff;    //#fdf6e3; //white
+//$solar-yellow:    #fc951e; //#b58900;
+//$solar-orange:    #fa2573; //#cb4b16;
+//$solar-red:       #e52222; //#dc322f;
+//$solar-magenta:   #fa2573; //#d33682;
+//$solar-violet:    #c48dff; //#6c71c4;
+//$solar-blue:      #a6e32d; //#268bd2;
+//$solar-cyan:      #67d9f0; //#2aa198;
+//$solar-green:     #a6e32d; //#859900;
 
 
 /* Non highlighted code colors */
