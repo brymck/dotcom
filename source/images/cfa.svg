@@ -1,0 +1,708 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+#footer text {
+  fill: #336699;
+  font-family: georgia, "times new roman", times, "meiryo ui", meiryo, メイリオ, serif;
+  font-size: 10px;
+}
+#chartbg {
+  stroke: #bad5ef;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+}
+.outline {
+  stroke: #8ebae5;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+}
+.dash path {
+  fill: none;
+  stroke: #8ebae5;
+  shape-rendering: crispEdges;
+}
+.dash text { fill: #336699; }
+.dash text, .point text, .line text {
+  font-family: verdana, arial, "meiryo ui", meiryo, メイリオ, sans-serif;
+  font-size: 10px;
+}
+.line text { text-anchor: end; }
+.lineVals text { text-anchor: middle; }
+.lineVals text, .lineVals circle, .lineVals rect {
+  fill-opacity: 0;
+  stroke-opacity: 0;
+}
+.point circle, .lineVals g:hover text, .lineVals g:hover circle {
+  fill-opacity: 1;
+  stroke-opacity: 1;
+}
+.point text { text-anchor: begin; }
+.point:hover circle { stroke-width: 2; }
+.point:hover text { fill-opacity: 1; }
+</style>
+<g>
+<rect width="398" height="398" fill="#f4f7ff" class="outline" />
+<rect id="chartbg" x="50" y="48" width="300" height="300" fill="#fff" />
+<text text-anchor="middle" x="199" y="20" font-family="georgia" font-size="18" fill="#336699">CFA Pass Rates</text>
+<path d="M0,24L398,24" stroke="#8ebae5" shape-rendering="crispEdges" fill="none" />
+</g>
+<g>
+<path d="M50,348L358,348M358,349L354,345M358,348L354,352" class="outline" />
+<text text-anchor="middle" x="200" y="382" font-family="georgia" font-size="12" fill="#336699">Date</text>
+</g>
+<g>
+<path d="M50,348L50,40M50,40L54,44M51,40L47,44" class="outline" />
+<text text-anchor="middle" x="14" y="198" font-family="georgia" font-size="12" fill="#336699" transform="rotate(270,14,198)">Rate (%)</text>
+</g>
+<g class="dash">
+<path d="M50,348L50,356" />
+<text x="50" y="368" text-anchor="middle">1960</text>
+</g>
+<g class="dash">
+<path d="M110,348L110,356" />
+<text x="110" y="368" text-anchor="middle">1970</text>
+</g>
+<g class="dash">
+<path d="M170,348L170,356" />
+<text x="170" y="368" text-anchor="middle">1980</text>
+</g>
+<g class="dash">
+<path d="M230,348L230,356" />
+<text x="230" y="368" text-anchor="middle">1990</text>
+</g>
+<g class="dash">
+<path d="M290,348L290,356" />
+<text x="290" y="368" text-anchor="middle">2000</text>
+</g>
+<g class="dash">
+<path d="M350,348L350,356" />
+<text x="350" y="368" text-anchor="middle">2010</text>
+</g>
+<g class="dash">
+<path d="M50,348L42,348" />
+<text x="40" y="352" text-anchor="end">0</text>
+</g>
+<g class="dash">
+<path d="M50,273L42,273" />
+<text x="40" y="277" text-anchor="end">25</text>
+</g>
+<g class="dash">
+<path d="M50,198L42,198" />
+<text x="40" y="202" text-anchor="end">50</text>
+</g>
+<g class="dash">
+<path d="M50,123L42,123" />
+<text x="40" y="127" text-anchor="end">75</text>
+</g>
+<g class="dash">
+<path d="M50,48L42,48" />
+<text x="40" y="52" text-anchor="end">100</text>
+</g>
+<g class="line">
+<polyline points="76.4,111 82.4,93 88.4,117 94.4,135 100.4,138 106.4,126 112.4,150 118.4,165 124.4,156 130.4,168 136.4,138 142.4,138 148.4,132 154.4,159 160.4,156 166.4,159 172.4,159 178.4,165 184.4,171 190.4,153 196.4,174 202.4,168 208.4,171 214.4,174 220.4,183 226.4,186 232.4,168 238.4,162 244.4,171 250.4,183 256.4,204 262.4,195 268.4,189 274.4,189 280.4,171 286.4,156 292.4,192 298.4,201 304.4,216 310.4,222 313.4,228 316.4,246 319.4,240 322.4,240 325.4,246 328.4,228 331.4,201 334.4,228 337.4,231 340.4,243 343.4,243 346.4,210 349.4,246 " stroke="#2e6295" fill="none" />
+<text x="192.4" y="181" fill="#2e6295">Level I</text>
+<g class="lineVals">
+<g>
+<circle cx="76.4" cy="111" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="76.4" y="106" fill="#2e6295">79</text>
+</g>
+<g>
+<circle cx="82.4" cy="93" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="82.4" y="88" fill="#2e6295">85</text>
+</g>
+<g>
+<circle cx="88.4" cy="117" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="88.4" y="112" fill="#2e6295">77</text>
+</g>
+<g>
+<circle cx="94.4" cy="135" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="94.4" y="130" fill="#2e6295">71</text>
+</g>
+<g>
+<circle cx="100.4" cy="138" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="100.4" y="133" fill="#2e6295">70</text>
+</g>
+<g>
+<circle cx="106.4" cy="126" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="106.4" y="121" fill="#2e6295">74</text>
+</g>
+<g>
+<circle cx="112.4" cy="150" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="112.4" y="145" fill="#2e6295">66</text>
+</g>
+<g>
+<circle cx="118.4" cy="165" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="118.4" y="160" fill="#2e6295">61</text>
+</g>
+<g>
+<circle cx="124.4" cy="156" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="124.4" y="151" fill="#2e6295">64</text>
+</g>
+<g>
+<circle cx="130.4" cy="168" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="130.4" y="163" fill="#2e6295">60</text>
+</g>
+<g>
+<circle cx="136.4" cy="138" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="136.4" y="133" fill="#2e6295">70</text>
+</g>
+<g>
+<circle cx="142.4" cy="138" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="142.4" y="133" fill="#2e6295">70</text>
+</g>
+<g>
+<circle cx="148.4" cy="132" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="148.4" y="127" fill="#2e6295">72</text>
+</g>
+<g>
+<circle cx="154.4" cy="159" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="154.4" y="154" fill="#2e6295">63</text>
+</g>
+<g>
+<circle cx="160.4" cy="156" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="160.4" y="151" fill="#2e6295">64</text>
+</g>
+<g>
+<circle cx="166.4" cy="159" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="166.4" y="154" fill="#2e6295">63</text>
+</g>
+<g>
+<circle cx="172.4" cy="159" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="172.4" y="154" fill="#2e6295">63</text>
+</g>
+<g>
+<circle cx="178.4" cy="165" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="178.4" y="160" fill="#2e6295">61</text>
+</g>
+<g>
+<circle cx="184.4" cy="171" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="184.4" y="166" fill="#2e6295">59</text>
+</g>
+<g>
+<circle cx="190.4" cy="153" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="190.4" y="148" fill="#2e6295">65</text>
+</g>
+<g>
+<circle cx="196.4" cy="174" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="196.4" y="169" fill="#2e6295">58</text>
+</g>
+<g>
+<circle cx="202.4" cy="168" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="202.4" y="163" fill="#2e6295">60</text>
+</g>
+<g>
+<circle cx="208.4" cy="171" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="208.4" y="166" fill="#2e6295">59</text>
+</g>
+<g>
+<circle cx="214.4" cy="174" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="214.4" y="169" fill="#2e6295">58</text>
+</g>
+<g>
+<circle cx="220.4" cy="183" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="220.4" y="178" fill="#2e6295">55</text>
+</g>
+<g>
+<circle cx="226.4" cy="186" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="226.4" y="181" fill="#2e6295">54</text>
+</g>
+<g>
+<circle cx="232.4" cy="168" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="232.4" y="163" fill="#2e6295">60</text>
+</g>
+<g>
+<circle cx="238.4" cy="162" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="238.4" y="157" fill="#2e6295">62</text>
+</g>
+<g>
+<circle cx="244.4" cy="171" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="244.4" y="166" fill="#2e6295">59</text>
+</g>
+<g>
+<circle cx="250.4" cy="183" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="250.4" y="178" fill="#2e6295">55</text>
+</g>
+<g>
+<circle cx="256.4" cy="204" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="256.4" y="199" fill="#2e6295">48</text>
+</g>
+<g>
+<circle cx="262.4" cy="195" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="262.4" y="190" fill="#2e6295">51</text>
+</g>
+<g>
+<circle cx="268.4" cy="189" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="268.4" y="184" fill="#2e6295">53</text>
+</g>
+<g>
+<circle cx="274.4" cy="189" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="274.4" y="184" fill="#2e6295">53</text>
+</g>
+<g>
+<circle cx="280.4" cy="171" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="280.4" y="166" fill="#2e6295">59</text>
+</g>
+<g>
+<circle cx="286.4" cy="156" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="286.4" y="151" fill="#2e6295">64</text>
+</g>
+<g>
+<circle cx="292.4" cy="192" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="292.4" y="187" fill="#2e6295">52</text>
+</g>
+<g>
+<circle cx="298.4" cy="201" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="298.4" y="196" fill="#2e6295">49</text>
+</g>
+<g>
+<circle cx="304.4" cy="216" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="304.4" y="211" fill="#2e6295">44</text>
+</g>
+<g>
+<circle cx="310.4" cy="222" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="310.4" y="217" fill="#2e6295">42</text>
+</g>
+<g>
+<circle cx="313.4" cy="228" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="313.4" y="223" fill="#2e6295">40</text>
+</g>
+<g>
+<circle cx="316.4" cy="246" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="316.4" y="241" fill="#2e6295">34</text>
+</g>
+<g>
+<circle cx="319.4" cy="240" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="319.4" y="235" fill="#2e6295">36</text>
+</g>
+<g>
+<circle cx="322.4" cy="240" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="322.4" y="235" fill="#2e6295">36</text>
+</g>
+<g>
+<circle cx="325.4" cy="246" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="325.4" y="241" fill="#2e6295">34</text>
+</g>
+<g>
+<circle cx="328.4" cy="228" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="328.4" y="223" fill="#2e6295">40</text>
+</g>
+<g>
+<circle cx="331.4" cy="201" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="331.4" y="196" fill="#2e6295">49</text>
+</g>
+<g>
+<circle cx="334.4" cy="228" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="334.4" y="223" fill="#2e6295">40</text>
+</g>
+<g>
+<circle cx="337.4" cy="231" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="337.4" y="226" fill="#2e6295">39</text>
+</g>
+<g>
+<circle cx="340.4" cy="243" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="340.4" y="238" fill="#2e6295">35</text>
+</g>
+<g>
+<circle cx="343.4" cy="243" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="343.4" y="238" fill="#2e6295">35</text>
+</g>
+<g>
+<circle cx="346.4" cy="210" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="346.4" y="205" fill="#2e6295">46</text>
+</g>
+<g>
+<circle cx="349.4" cy="246" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="349.4" y="241" fill="#2e6295">34</text>
+</g>
+</g>
+</g>
+<g class="line">
+<polyline points="76.4,66 82.4,114 88.4,150 94.4,81 100.4,123 106.4,114 112.4,117 118.4,126 124.4,117 130.4,177 136.4,126 142.4,123 148.4,126 154.4,105 160.4,93 166.4,96 172.4,117 178.4,93 184.4,144 190.4,153 196.4,165 202.4,126 208.4,156 214.4,156 220.4,168 226.4,156 232.4,159 238.4,186 244.4,156 250.4,180 256.4,204 262.4,210 268.4,153 274.4,171 280.4,162 286.4,186 292.4,186 298.4,210 304.4,207 310.4,207 316.4,252 322.4,180 328.4,204 334.4,228 340.4,210 346.4,225 " stroke="#a65731" fill="none" />
+<text x="254.4" y="151" fill="#a65731">Level II</text>
+<g class="lineVals">
+<g>
+<circle cx="76.4" cy="66" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="76.4" y="61" fill="#a65731">94</text>
+</g>
+<g>
+<circle cx="82.4" cy="114" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="82.4" y="109" fill="#a65731">78</text>
+</g>
+<g>
+<circle cx="88.4" cy="150" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="88.4" y="145" fill="#a65731">66</text>
+</g>
+<g>
+<circle cx="94.4" cy="81" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="94.4" y="76" fill="#a65731">89</text>
+</g>
+<g>
+<circle cx="100.4" cy="123" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="100.4" y="118" fill="#a65731">75</text>
+</g>
+<g>
+<circle cx="106.4" cy="114" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="106.4" y="109" fill="#a65731">78</text>
+</g>
+<g>
+<circle cx="112.4" cy="117" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="112.4" y="112" fill="#a65731">77</text>
+</g>
+<g>
+<circle cx="118.4" cy="126" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="118.4" y="121" fill="#a65731">74</text>
+</g>
+<g>
+<circle cx="124.4" cy="117" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="124.4" y="112" fill="#a65731">77</text>
+</g>
+<g>
+<circle cx="130.4" cy="177" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="130.4" y="172" fill="#a65731">57</text>
+</g>
+<g>
+<circle cx="136.4" cy="126" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="136.4" y="121" fill="#a65731">74</text>
+</g>
+<g>
+<circle cx="142.4" cy="123" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="142.4" y="118" fill="#a65731">75</text>
+</g>
+<g>
+<circle cx="148.4" cy="126" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="148.4" y="121" fill="#a65731">74</text>
+</g>
+<g>
+<circle cx="154.4" cy="105" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="154.4" y="100" fill="#a65731">81</text>
+</g>
+<g>
+<circle cx="160.4" cy="93" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="160.4" y="88" fill="#a65731">85</text>
+</g>
+<g>
+<circle cx="166.4" cy="96" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="166.4" y="91" fill="#a65731">84</text>
+</g>
+<g>
+<circle cx="172.4" cy="117" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="172.4" y="112" fill="#a65731">77</text>
+</g>
+<g>
+<circle cx="178.4" cy="93" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="178.4" y="88" fill="#a65731">85</text>
+</g>
+<g>
+<circle cx="184.4" cy="144" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="184.4" y="139" fill="#a65731">68</text>
+</g>
+<g>
+<circle cx="190.4" cy="153" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="190.4" y="148" fill="#a65731">65</text>
+</g>
+<g>
+<circle cx="196.4" cy="165" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="196.4" y="160" fill="#a65731">61</text>
+</g>
+<g>
+<circle cx="202.4" cy="126" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="202.4" y="121" fill="#a65731">74</text>
+</g>
+<g>
+<circle cx="208.4" cy="156" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="208.4" y="151" fill="#a65731">64</text>
+</g>
+<g>
+<circle cx="214.4" cy="156" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="214.4" y="151" fill="#a65731">64</text>
+</g>
+<g>
+<circle cx="220.4" cy="168" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="220.4" y="163" fill="#a65731">60</text>
+</g>
+<g>
+<circle cx="226.4" cy="156" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="226.4" y="151" fill="#a65731">64</text>
+</g>
+<g>
+<circle cx="232.4" cy="159" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="232.4" y="154" fill="#a65731">63</text>
+</g>
+<g>
+<circle cx="238.4" cy="186" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="238.4" y="181" fill="#a65731">54</text>
+</g>
+<g>
+<circle cx="244.4" cy="156" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="244.4" y="151" fill="#a65731">64</text>
+</g>
+<g>
+<circle cx="250.4" cy="180" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="250.4" y="175" fill="#a65731">56</text>
+</g>
+<g>
+<circle cx="256.4" cy="204" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="256.4" y="199" fill="#a65731">48</text>
+</g>
+<g>
+<circle cx="262.4" cy="210" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="262.4" y="205" fill="#a65731">46</text>
+</g>
+<g>
+<circle cx="268.4" cy="153" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="268.4" y="148" fill="#a65731">65</text>
+</g>
+<g>
+<circle cx="274.4" cy="171" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="274.4" y="166" fill="#a65731">59</text>
+</g>
+<g>
+<circle cx="280.4" cy="162" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="280.4" y="157" fill="#a65731">62</text>
+</g>
+<g>
+<circle cx="286.4" cy="186" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="286.4" y="181" fill="#a65731">54</text>
+</g>
+<g>
+<circle cx="292.4" cy="186" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="292.4" y="181" fill="#a65731">54</text>
+</g>
+<g>
+<circle cx="298.4" cy="210" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="298.4" y="205" fill="#a65731">46</text>
+</g>
+<g>
+<circle cx="304.4" cy="207" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="304.4" y="202" fill="#a65731">47</text>
+</g>
+<g>
+<circle cx="310.4" cy="207" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="310.4" y="202" fill="#a65731">47</text>
+</g>
+<g>
+<circle cx="316.4" cy="252" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="316.4" y="247" fill="#a65731">32</text>
+</g>
+<g>
+<circle cx="322.4" cy="180" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="322.4" y="175" fill="#a65731">56</text>
+</g>
+<g>
+<circle cx="328.4" cy="204" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="328.4" y="199" fill="#a65731">48</text>
+</g>
+<g>
+<circle cx="334.4" cy="228" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="334.4" y="223" fill="#a65731">40</text>
+</g>
+<g>
+<circle cx="340.4" cy="210" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="340.4" y="205" fill="#a65731">46</text>
+</g>
+<g>
+<circle cx="346.4" cy="225" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="346.4" y="220" fill="#a65731">41</text>
+</g>
+</g>
+</g>
+<g class="line">
+<polyline points="70.4,66 76.4,63 82.4,75 88.4,99 94.4,78 100.4,117 106.4,144 112.4,165 118.4,108 124.4,129 130.4,153 136.4,96 142.4,96 148.4,96 154.4,114 160.4,123 166.4,84 172.4,90 178.4,126 184.4,129 190.4,156 196.4,105 202.4,129 208.4,117 214.4,132 220.4,135 226.4,111 232.4,123 238.4,123 244.4,102 250.4,120 256.4,129 262.4,138 268.4,156 274.4,171 280.4,171 286.4,171 292.4,153 298.4,102 304.4,174 310.4,144 316.4,156 322.4,183 328.4,120 334.4,198 340.4,189 346.4,201 " stroke="#a68a31" fill="none" />
+<text x="264.4" y="100" fill="#a68a31">Level III</text>
+<g class="lineVals">
+<g>
+<circle cx="70.4" cy="66" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="70.4" y="61" fill="#a68a31">94</text>
+</g>
+<g>
+<circle cx="76.4" cy="63" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="76.4" y="58" fill="#a68a31">95</text>
+</g>
+<g>
+<circle cx="82.4" cy="75" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="82.4" y="70" fill="#a68a31">91</text>
+</g>
+<g>
+<circle cx="88.4" cy="99" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="88.4" y="94" fill="#a68a31">83</text>
+</g>
+<g>
+<circle cx="94.4" cy="78" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="94.4" y="73" fill="#a68a31">90</text>
+</g>
+<g>
+<circle cx="100.4" cy="117" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="100.4" y="112" fill="#a68a31">77</text>
+</g>
+<g>
+<circle cx="106.4" cy="144" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="106.4" y="139" fill="#a68a31">68</text>
+</g>
+<g>
+<circle cx="112.4" cy="165" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="112.4" y="160" fill="#a68a31">61</text>
+</g>
+<g>
+<circle cx="118.4" cy="108" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="118.4" y="103" fill="#a68a31">80</text>
+</g>
+<g>
+<circle cx="124.4" cy="129" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="124.4" y="124" fill="#a68a31">73</text>
+</g>
+<g>
+<circle cx="130.4" cy="153" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="130.4" y="148" fill="#a68a31">65</text>
+</g>
+<g>
+<circle cx="136.4" cy="96" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="136.4" y="91" fill="#a68a31">84</text>
+</g>
+<g>
+<circle cx="142.4" cy="96" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="142.4" y="91" fill="#a68a31">84</text>
+</g>
+<g>
+<circle cx="148.4" cy="96" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="148.4" y="91" fill="#a68a31">84</text>
+</g>
+<g>
+<circle cx="154.4" cy="114" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="154.4" y="109" fill="#a68a31">78</text>
+</g>
+<g>
+<circle cx="160.4" cy="123" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="160.4" y="118" fill="#a68a31">75</text>
+</g>
+<g>
+<circle cx="166.4" cy="84" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="166.4" y="79" fill="#a68a31">88</text>
+</g>
+<g>
+<circle cx="172.4" cy="90" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="172.4" y="85" fill="#a68a31">86</text>
+</g>
+<g>
+<circle cx="178.4" cy="126" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="178.4" y="121" fill="#a68a31">74</text>
+</g>
+<g>
+<circle cx="184.4" cy="129" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="184.4" y="124" fill="#a68a31">73</text>
+</g>
+<g>
+<circle cx="190.4" cy="156" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="190.4" y="151" fill="#a68a31">64</text>
+</g>
+<g>
+<circle cx="196.4" cy="105" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="196.4" y="100" fill="#a68a31">81</text>
+</g>
+<g>
+<circle cx="202.4" cy="129" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="202.4" y="124" fill="#a68a31">73</text>
+</g>
+<g>
+<circle cx="208.4" cy="117" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="208.4" y="112" fill="#a68a31">77</text>
+</g>
+<g>
+<circle cx="214.4" cy="132" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="214.4" y="127" fill="#a68a31">72</text>
+</g>
+<g>
+<circle cx="220.4" cy="135" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="220.4" y="130" fill="#a68a31">71</text>
+</g>
+<g>
+<circle cx="226.4" cy="111" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="226.4" y="106" fill="#a68a31">79</text>
+</g>
+<g>
+<circle cx="232.4" cy="123" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="232.4" y="118" fill="#a68a31">75</text>
+</g>
+<g>
+<circle cx="238.4" cy="123" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="238.4" y="118" fill="#a68a31">75</text>
+</g>
+<g>
+<circle cx="244.4" cy="102" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="244.4" y="97" fill="#a68a31">82</text>
+</g>
+<g>
+<circle cx="250.4" cy="120" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="250.4" y="115" fill="#a68a31">76</text>
+</g>
+<g>
+<circle cx="256.4" cy="129" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="256.4" y="124" fill="#a68a31">73</text>
+</g>
+<g>
+<circle cx="262.4" cy="138" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="262.4" y="133" fill="#a68a31">70</text>
+</g>
+<g>
+<circle cx="268.4" cy="156" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="268.4" y="151" fill="#a68a31">64</text>
+</g>
+<g>
+<circle cx="274.4" cy="171" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="274.4" y="166" fill="#a68a31">59</text>
+</g>
+<g>
+<circle cx="280.4" cy="171" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="280.4" y="166" fill="#a68a31">59</text>
+</g>
+<g>
+<circle cx="286.4" cy="171" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="286.4" y="166" fill="#a68a31">59</text>
+</g>
+<g>
+<circle cx="292.4" cy="153" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="292.4" y="148" fill="#a68a31">65</text>
+</g>
+<g>
+<circle cx="298.4" cy="102" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="298.4" y="97" fill="#a68a31">82</text>
+</g>
+<g>
+<circle cx="304.4" cy="174" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="304.4" y="169" fill="#a68a31">58</text>
+</g>
+<g>
+<circle cx="310.4" cy="144" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="310.4" y="139" fill="#a68a31">68</text>
+</g>
+<g>
+<circle cx="316.4" cy="156" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="316.4" y="151" fill="#a68a31">64</text>
+</g>
+<g>
+<circle cx="322.4" cy="183" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="322.4" y="178" fill="#a68a31">55</text>
+</g>
+<g>
+<circle cx="328.4" cy="120" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="328.4" y="115" fill="#a68a31">76</text>
+</g>
+<g>
+<circle cx="334.4" cy="198" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="334.4" y="193" fill="#a68a31">50</text>
+</g>
+<g>
+<circle cx="340.4" cy="189" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="340.4" y="184" fill="#a68a31">53</text>
+</g>
+<g>
+<circle cx="346.4" cy="201" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="346.4" y="196" fill="#a68a31">49</text>
+</g>
+</g>
+</g>
+<g id="footer">
+<text x="2" y="394" text-anchor="begin">Source: CFA Institute</text>
+<a xlink:href="http://www.brymck.com">
+<text x="397" y="394" text-anchor="end">brymck.com</text>
+</a>
+</g>
+</svg>

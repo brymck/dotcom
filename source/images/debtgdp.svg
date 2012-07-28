@@ -1,0 +1,182 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+#footer text {
+  fill: #336699;
+  font-family: georgia, "times new roman", times, "meiryo ui", meiryo, メイリオ, serif;
+  font-size: 10px;
+}
+#chartbg {
+  stroke: #bad5ef;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+}
+.outline {
+  stroke: #8ebae5;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+}
+.dash path {
+  fill: none;
+  stroke: #8ebae5;
+  shape-rendering: crispEdges;
+}
+.dash text { fill: #336699; }
+.dash text, .point text, .line text {
+  font-family: verdana, arial, "meiryo ui", meiryo, メイリオ, sans-serif;
+  font-size: 10px;
+}
+.line text { text-anchor: end; }
+.lineVals text { text-anchor: middle; }
+.lineVals text, .lineVals circle, .lineVals rect {
+  fill-opacity: 0;
+  stroke-opacity: 0;
+}
+.point circle, .lineVals g:hover text, .lineVals g:hover circle {
+  fill-opacity: 1;
+  stroke-opacity: 1;
+}
+.point text { text-anchor: begin; }
+.point:hover circle { stroke-width: 2; }
+.point:hover text { fill-opacity: 1; }
+</style>
+<g>
+<rect width="398" height="398" fill="#f4f7ff" class="outline" />
+<rect id="chartbg" x="50" y="48" width="300" height="300" fill="#fff" />
+<text text-anchor="middle" x="199" y="20" font-family="georgia" font-size="18" fill="#336699">Sovereign Debt/GDP</text>
+<path d="M0,24L398,24" stroke="#8ebae5" shape-rendering="crispEdges" fill="none" />
+</g>
+<g>
+<path d="M50,348L358,348M358,349L354,345M358,348L354,352" class="outline" />
+<text text-anchor="middle" x="200" y="382" font-family="georgia" font-size="12" fill="#336699">GDP (in billions USD)</text>
+</g>
+<g>
+<path d="M50,348L50,40M50,40L54,44M51,40L47,44" class="outline" />
+<text text-anchor="middle" x="14" y="198" font-family="georgia" font-size="12" fill="#336699" transform="rotate(270,14,198)">Debt/GDP (%)</text>
+</g>
+<g class="dash">
+<path d="M50,348L50,356" />
+<text x="50" y="368" text-anchor="middle">0</text>
+</g>
+<g class="dash">
+<path d="M100,348L100,356" />
+<text x="100" y="368" text-anchor="middle">1</text>
+</g>
+<g class="dash">
+<path d="M150,348L150,356" />
+<text x="150" y="368" text-anchor="middle">2</text>
+</g>
+<g class="dash">
+<path d="M200,348L200,356" />
+<text x="200" y="368" text-anchor="middle">3</text>
+</g>
+<g class="dash">
+<path d="M250,348L250,356" />
+<text x="250" y="368" text-anchor="middle">4</text>
+</g>
+<g class="dash">
+<path d="M300,348L300,356" />
+<text x="300" y="368" text-anchor="middle">5</text>
+</g>
+<g class="dash">
+<path d="M350,348L350,356" />
+<text x="350" y="368" text-anchor="middle">6</text>
+</g>
+<g class="dash">
+<path d="M50,348L42,348" />
+<text x="40" y="352" text-anchor="end">0</text>
+</g>
+<g class="dash">
+<path d="M50,273L42,273" />
+<text x="40" y="277" text-anchor="end">50</text>
+</g>
+<g class="dash">
+<path d="M50,198L42,198" />
+<text x="40" y="202" text-anchor="end">100</text>
+</g>
+<g class="dash">
+<path d="M50,123L42,123" />
+<text x="40" y="127" text-anchor="end">150</text>
+</g>
+<g class="dash">
+<path d="M50,48L42,48" />
+<text x="40" y="52" text-anchor="end">200</text>
+</g>
+<g class="point">
+<circle cx="350" cy="268.7" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="325" y="282.2" fill="#2e6295">USA 14.4 →</text>
+</g>
+<g class="point">
+<circle cx="116.8" cy="239.6" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="121.8" y="240.1" fill="#2e6295">Canada</text>
+</g>
+<g class="point">
+<circle cx="100.9" cy="291.5" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="105.9" y="295" fill="#2e6295">Mexico</text>
+</g>
+<g class="point">
+<circle cx="305.4" cy="59.9" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="310.4" y="62.4" fill="#a68a31">Japan</text>
+</g>
+<g class="point">
+<circle cx="96" cy="320.1" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="101" y="322.6" fill="#a68a31">Australia</text>
+</g>
+<g class="point">
+<circle cx="90" cy="306" r="3.5" fill="#ffe696" stroke="#a68a31" />
+<text x="95" y="308.5" fill="#a68a31">South Korea</text>
+</g>
+<g class="point">
+<circle cx="61" cy="235.2" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="66" y="237.7" fill="#a65731">Portugal</text>
+</g>
+<g class="point">
+<circle cx="154.5" cy="175.2" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="159.5" y="177.7" fill="#a65731">Italy</text>
+</g>
+<g class="point">
+<circle cx="61.4" cy="252.5" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="66.4" y="254" fill="#a65731">Ireland</text>
+</g>
+<g class="point">
+<circle cx="66.9" cy="185.9" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="71.9" y="188.4" fill="#a65731">Greece</text>
+</g>
+<g class="point">
+<circle cx="123.3" cy="273" r="3.5" fill="#ffb896" stroke="#a65731" />
+<text x="128.3" y="275.5" fill="#a65731">Spain</text>
+</g>
+<g class="point">
+<circle cx="213.7" cy="232.2" r="3.5" fill="#88e7c5" stroke="#2c9671" />
+<text x="218.7" y="234.7" fill="#2c9671">Germany</text>
+</g>
+<g class="point">
+<circle cx="159.9" cy="245.3" r="3.5" fill="#88e7c5" stroke="#2c9671" />
+<text x="164.9" y="247.8" fill="#2c9671">UK</text>
+</g>
+<g class="point">
+<circle cx="183.3" cy="228.5" r="3.5" fill="#88e7c5" stroke="#2c9671" />
+<text x="188.3" y="226" fill="#2c9671">France</text>
+</g>
+<g class="point">
+<circle cx="125" cy="277.8" r="3.5" fill="#9b97e9" stroke="#373197" />
+<text x="130" y="286.3" fill="#373197">Brazil</text>
+</g>
+<g class="point">
+<circle cx="111.6" cy="337.7" r="3.5" fill="#9b97e9" stroke="#373197" />
+<text x="116.6" y="340.2" fill="#373197">Russia</text>
+</g>
+<g class="point">
+<circle cx="104.8" cy="258.6" r="3.5" fill="#9b97e9" stroke="#373197" />
+<text x="109.8" y="264.1" fill="#373197">India</text>
+</g>
+<g class="point">
+<circle cx="290.7" cy="320.7" r="3.5" fill="#9b97e9" stroke="#373197" />
+<text x="295.7" y="323.2" fill="#373197">China</text>
+</g>
+<g id="footer">
+<text x="2" y="394" text-anchor="begin">Source: CIA World Factbook, 2009</text>
+<a xlink:href="http://www.brymck.com">
+<text x="397" y="394" text-anchor="end">brymck.com</text>
+</a>
+</g>
+</svg>

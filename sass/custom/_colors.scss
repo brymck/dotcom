@@ -5,7 +5,7 @@
 // Main Link Colors
 $link-color: #e50053;
 $link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
-$link-color-visited: adjust-color($link-color, $hue: 80, $lightness: -4) !default;
+$link-color-visited: $link-color;
 $link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
 
 $page-bg: #ffffff;
