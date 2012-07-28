@@ -3,7 +3,7 @@ layout: post
 title: "Serve Yourself"
 date: 2010-06-21 13:55
 comments: true
-categories: 
+categories: japan
 ---
 
 One of my friends from college and the Bay Area, came out here recently, so I

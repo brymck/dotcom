@@ -3,7 +3,7 @@ layout: post
 title: "Reinventing the Wheel"
 date: 2011-03-22 02:28
 comments: true
-categories: 
+categories: japan, linguistics
 ---
 
 This is just a little post about an alternative system for writing Japanese that

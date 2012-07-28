@@ -3,7 +3,7 @@ layout: post
 title: "Bracketology"
 date: 2011-03-17 02:05
 comments: true
-categories: 
+categories: sports
 ---
 
 I made a little spreadsheet that I plan to update to look at the probabilities

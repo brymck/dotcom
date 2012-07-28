@@ -3,7 +3,7 @@ layout: post
 title: "The End of Golden Week"
 date: 2010-05-04 19:26
 comments: true
-categories: 
+categories: japan
 ---
 
 So we're nearing the end of the holidays here.

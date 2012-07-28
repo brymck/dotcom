@@ -3,7 +3,7 @@ layout: post
 title: "Earthquake!"
 date: 2011-03-11 09:06
 comments: true
-categories: 
+categories: japan
 ---
 
 Well, I figure if there were ever an appropriate time to send an email, it

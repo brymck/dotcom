@@ -3,7 +3,7 @@ layout: post
 title: "Radiation in Tokyo"
 date: 2011-03-22 02:03
 comments: true
-categories: 
+categories: japan
 ---
 
 Hey everyone, I just figured I'd send out a quick note on radiation in

@@ -1,0 +1,55 @@
+---
+layout: code
+title: "Rupee"
+date: 2007-02-03 00:00
+comments: true
+categories: code, c, ruby
+permalink: /code/rupee
+---
+
+Rupee is a Ruby gem that I've written for financial functions. It allows you to
+price options and pull a great deal of information on securities from online
+sources, all organized around Ruby's object-oriented model.
+
+<!-- more -->
+
+Also, due to the speed considerations when dealing with models, the more
+mathematical parts of the extension are written in C for maximum efficiency.
+Thus, you can create a call option like so:
+
+``` ruby
+bs_call = Rupee::Call.new(
+  :underlying => 60,
+  :strike     => 65,
+  :time       =>  0.25,
+  :rate       =>  0.08,
+  :div_yield  =>  0.00,
+  :volatility =>  0.3
+)
+```
+
+and you can retrieve its Black-Scholes valuation using
+
+``` ruby
+bs_call.black_scholes
+```
+
+Or, you can skip to the chase if you don't need to hold onto something as an
+object (e.g. with Monte Carlo sims) and just go with:
+
+``` ruby
+Rupee::Option.black_scholes "c", 60, 65, 0.25, 0.08, 0, 0.3
+```
+
+The rest of the extension is organized on similar lines for various options and
+fixed-income securities.
+
+If you already have Ruby installed, you can run the following in a command
+prompt to install it:
+
+``` sh
+gem install rupee
+```
+
+Documentation:  
+<http://brymck.herokuapp.com/rupee/>

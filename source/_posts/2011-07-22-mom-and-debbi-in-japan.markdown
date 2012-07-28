@@ -3,7 +3,7 @@ layout: post
 title: "Mom and Debbi in Japan"
 date: 2011-07-22 12:39
 comments: true
-categories: 
+categories: japan, family
 ---
 
 Well, it's been a long while since my last update, but I'll keep this one brief.

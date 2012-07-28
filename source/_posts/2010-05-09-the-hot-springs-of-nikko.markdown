@@ -3,7 +3,7 @@ layout: post
 title: "The Hot Springs of Nikkō"
 date: 2010-05-09 19:21
 comments: true
-categories: 
+categories: japan
 ---
 
 I got back a few days ago from Nikkō. It was a great experience and, given the

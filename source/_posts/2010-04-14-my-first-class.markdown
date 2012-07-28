@@ -3,7 +3,7 @@ layout: post
 title: "My First Class"
 date: 2010-04-14 04:44
 comments: true
-categories: 
+categories: japan
 ---
 
 Hey guys, it's Bryan again!

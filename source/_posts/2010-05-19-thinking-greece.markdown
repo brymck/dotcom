@@ -3,7 +3,7 @@ layout: post
 title: "Thinking Greece"
 date: 2010-05-19 18:15
 comments: true
-categories: 
+categories: japan
 ---
 
 So I've been asked to present a bit in an upcoming seminar about current

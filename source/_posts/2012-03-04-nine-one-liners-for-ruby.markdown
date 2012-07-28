@@ -3,7 +3,7 @@ layout: post
 title: "Nine One-Liners for Ruby"
 date: 2012-03-04 02:27
 comments: true
-categories: 
+categories: programming
 ---
 
 I just thought [this][on_scala] was an interesting post on Scala showcasing the

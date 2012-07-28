@@ -3,7 +3,7 @@ layout: post
 title: "Bracketology, Part 2"
 date: 2011-03-21 09:05
 comments: true
-categories: 
+categories: sports
 ---
 
 [Part 1 here][part_one]

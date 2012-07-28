@@ -3,7 +3,7 @@ layout: post
 title: "Now That That's Over"
 date: 2010-06-10 11:39
 comments: true
-categories: 
+categories: japan, finance
 ---
 
 Well, I finally finished up my last CFA exam. I think I did pretty well,

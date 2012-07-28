@@ -3,7 +3,7 @@ layout: post
 title: "Getting Settled"
 date: 2010-04-06 04:12
 comments: true
-categories: 
+categories: japan
 ---
 
 Well, finally, I think I've gotten most of the initial setup here done. I've got

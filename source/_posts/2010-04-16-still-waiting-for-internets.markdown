@@ -3,7 +3,7 @@ layout: post
 title: "Still Waiting for Internets"
 date: 2010-04-16 07:29
 comments: true
-categories: 
+categories: japan
 ---
 
 Yes, Aunt Molly, there are some weird types out here, but I went to

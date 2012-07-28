@@ -3,7 +3,7 @@ layout: post
 title: "OECD Sovereign Debt Ratings"
 date: 2011-08-06 18:03
 comments: true
-categories: 
+categories: finance
 ---
 
 The countries below are ordered more or less by their average rating:

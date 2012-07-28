@@ -3,7 +3,7 @@ layout: post
 title: "The Start of Golden Week"
 date: 2010-05-02 0:08
 comments: true
-categories: 
+categories: japan
 ---
 
 Well, everyone, we're in the spring holiday season here in Japan. They have

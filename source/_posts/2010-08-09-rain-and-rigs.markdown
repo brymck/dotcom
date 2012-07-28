@@ -3,7 +3,7 @@ layout: post
 title: "Rain and Rigs"
 date: 2010-08-09 11:06
 comments: true
-categories: 
+categories: japan, music
 ---
 
 So I've done an impressively poor job of keeping everyone back home up-to-date,

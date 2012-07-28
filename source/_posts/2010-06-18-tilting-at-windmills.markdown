@@ -3,7 +3,7 @@ layout: post
 title: "The Swaps That Swallowed Your Town, or Tilting at Windmills"
 date: 2010-06-18 15:53
 comments: true
-categories: 
+categories: finance
 ---
 
 Way back in March, Gretchen Morgenson wrote [an article for the Grey Lady][gretchen]

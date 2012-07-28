@@ -3,7 +3,7 @@ layout: post
 title: "Living Quarters"
 date: 2010-05-25 07:59
 comments: true
-categories: 
+categories: japan
 ---
 
 It's been two weeks since my last update, but not much has been happening
