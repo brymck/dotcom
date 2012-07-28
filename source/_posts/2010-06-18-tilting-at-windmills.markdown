@@ -6,9 +6,8 @@ comments: true
 categories: 
 ---
 
-Way back in March, Gretchen Morgenson wrote
-[an article for the Grey Lady][gretchen] that was easily among
-the most misleading since Bloomberg's
+Way back in March, Gretchen Morgenson wrote [an article for the Grey Lady][gretchen]
+that was easily among the most misleading since Bloomberg's
 [epic failure on SOP 03-3 accounting][bloomberg]. Let's face it, now is a hell
 of a time for financial journalists to make a name for themselves as the scourge
 of Wall Street, so the temptation is to seize on anything sounding scary and
@@ -203,10 +202,13 @@ have had those problems. Either way, the swaps _would have had exactly the same
 payments_, and without swaps the same problems would have occurred. Why not blame
 something that actually had something to do with the problems?
 
-Attachments SwapsPerformanceReport.pdf (1.19 MB)
+### Attachments
+
+[SwapsPerformanceReport.pdf][my_swaps] (1.19 MB)
 
   [gretchen]:http://www.nytimes.com/2010/03/07/business/07gret.html
   [bloomberg]:http://www.bloomberg.com/apps/news?pid=20602061&sid=aYhaiSOq_Tbc
   [salmon]:http://blogs.reuters.com/felix-salmon/2010/03/07/the-nyt-jumps-the-cds-shark/
   [cds]:http://topics.nytimes.com/top/reference/timestopics/subjects/c/credit_default_swaps/index.html?inline=nyt-classifier
   [swaps]:http://www.budget.state.ny.us/investor/bond/SwapsPerformanceReport.pdf
+  [my_swaps]:/documents/SwapsPerformanceReport.pdf

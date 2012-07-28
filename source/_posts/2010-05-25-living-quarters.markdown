@@ -6,7 +6,6 @@ comments: true
 categories: 
 ---
 
-
 It's been two weeks since my last update, but not much has been happening
 lately. I've taken some time out to [revamp my site][revamp] a bit---a nicer
 layout, a sidebar showing recent comments and pictures, and some content now

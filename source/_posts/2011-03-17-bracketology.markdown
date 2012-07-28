@@ -86,4 +86,4 @@ greater than the winning team's score minus 1.
 
   [kenpom]:http://www.kenpom.com/
   [summary]:http://kenpom.com/summary11.csv
-  [download]:/download/Bracketology.xlsm
+  [download]:/documents/Bracketology.xlsm
