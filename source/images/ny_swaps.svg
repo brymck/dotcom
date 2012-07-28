@@ -1,0 +1,156 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+#footer text {
+  fill: #336699;
+  font-family: georgia, "times new roman", times, "meiryo ui", meiryo, メイリオ, serif;
+  font-size: 10px;
+}
+#chartbg {
+  stroke: #bad5ef;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+}
+.outline {
+  stroke: #8ebae5;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+}
+.dash path {
+  fill: none;
+  stroke: #8ebae5;
+  shape-rendering: crispEdges;
+}
+.dash text { fill: #336699; }
+.dash text, .point text, .line text {
+  font-family: verdana, arial, "meiryo ui", meiryo, メイリオ, sans-serif;
+  font-size: 10px;
+}
+.line text { text-anchor: end; }
+.lineVals text { text-anchor: middle; }
+.lineVals text, .lineVals circle, .lineVals rect {
+  fill-opacity: 0;
+  stroke-opacity: 0;
+}
+.point circle, .lineVals g:hover text, .lineVals g:hover circle {
+  fill-opacity: 1;
+  stroke-opacity: 1;
+}
+.point text { text-anchor: begin; }
+.point:hover circle { stroke-width: 2; }
+.point:hover text { fill-opacity: 1; }
+</style>
+<g>
+<rect width="398" height="398" fill="#f4f7ff" class="outline" />
+<rect id="chartbg" x="50" y="48" width="300" height="300" fill="#fff" />
+<text text-anchor="middle" x="199" y="20" font-family="georgia" font-size="18" fill="#336699">New York Interest Rate Swap Performance</text>
+<path d="M0,24L398,24" stroke="#8ebae5" shape-rendering="crispEdges" fill="none" />
+</g>
+<g>
+<path d="M50,348L358,348M358,349L354,345M358,348L354,352" class="outline" />
+<text text-anchor="middle" x="200" y="382" font-family="georgia" font-size="12" fill="#336699">Year</text>
+</g>
+<g>
+<path d="M50,348L50,40M50,40L54,44M51,40L47,44" class="outline" />
+<text text-anchor="middle" x="14" y="198" font-family="georgia" font-size="12" fill="#336699" transform="rotate(270,14,198)">Savings ($ Millions)</text>
+</g>
+<g class="dash">
+<path d="M50,348L50,356" />
+<text x="50" y="368" text-anchor="middle">2002</text>
+</g>
+<g class="dash">
+<path d="M92.9,348L92.9,356" />
+<text x="92.9" y="368" text-anchor="middle">2003</text>
+</g>
+<g class="dash">
+<path d="M135.7,348L135.7,356" />
+<text x="135.7" y="368" text-anchor="middle">2004</text>
+</g>
+<g class="dash">
+<path d="M178.6,348L178.6,356" />
+<text x="178.6" y="368" text-anchor="middle">2005</text>
+</g>
+<g class="dash">
+<path d="M221.4,348L221.4,356" />
+<text x="221.4" y="368" text-anchor="middle">2006</text>
+</g>
+<g class="dash">
+<path d="M264.3,348L264.3,356" />
+<text x="264.3" y="368" text-anchor="middle">2007</text>
+</g>
+<g class="dash">
+<path d="M307.1,348L307.1,356" />
+<text x="307.1" y="368" text-anchor="middle">2008</text>
+</g>
+<g class="dash">
+<path d="M350,348L350,356" />
+<text x="350" y="368" text-anchor="middle">2009</text>
+</g>
+<g class="dash">
+<path d="M50,348L42,348" />
+<text x="40" y="352" text-anchor="end">0</text>
+</g>
+<g class="dash">
+<path d="M50,298L42,298" />
+<text x="40" y="302" text-anchor="end">25</text>
+</g>
+<g class="dash">
+<path d="M50,248L42,248" />
+<text x="40" y="252" text-anchor="end">50</text>
+</g>
+<g class="dash">
+<path d="M50,198L42,198" />
+<text x="40" y="202" text-anchor="end">75</text>
+</g>
+<g class="dash">
+<path d="M50,148L42,148" />
+<text x="40" y="152" text-anchor="end">100</text>
+</g>
+<g class="dash">
+<path d="M50,98L42,98" />
+<text x="40" y="102" text-anchor="end">125</text>
+</g>
+<g class="dash">
+<path d="M50,48L42,48" />
+<text x="40" y="52" text-anchor="end">150</text>
+</g>
+<g class="line">
+<polyline points="71.4,344.4 114.3,300.2 157.1,245.4 200,177.4 242.9,94.6 285.7,61.4 328.6,265.2 " stroke="#2e6295" fill="none" />
+<text x="-85750" y="348" fill="#2e6295">Savings</text>
+<g class="lineVals">
+<g>
+<circle cx="71.4" cy="344.4" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="71.4" y="339.4" fill="#2e6295">1.8</text>
+</g>
+<g>
+<circle cx="114.3" cy="300.2" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="114.3" y="295.2" fill="#2e6295">23.9</text>
+</g>
+<g>
+<circle cx="157.1" cy="245.4" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="157.1" y="240.4" fill="#2e6295">51.3</text>
+</g>
+<g>
+<circle cx="200" cy="177.4" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="200" y="172.4" fill="#2e6295">85.3</text>
+</g>
+<g>
+<circle cx="242.9" cy="94.6" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="242.9" y="89.6" fill="#2e6295">126.7</text>
+</g>
+<g>
+<circle cx="285.7" cy="61.4" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="285.7" y="56.4" fill="#2e6295">143.3</text>
+</g>
+<g>
+<circle cx="328.6" cy="265.2" r="3.5" fill="#8ebae5" stroke="#2e6295" />
+<text x="328.6" y="260.2" fill="#2e6295">41.4</text>
+</g>
+</g>
+</g>
+<g id="footer">
+<text x="2" y="394" text-anchor="begin">Source: New York Division of the Budget</text>
+<a xlink:href="http://www.brymck.com">
+<text x="397" y="394" text-anchor="end">brymck.com</text>
+</a>
+</g>
+</svg>
