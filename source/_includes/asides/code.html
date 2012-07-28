@@ -1,12 +1,12 @@
 <section>
-  <h1>Recent Posts</h1>
+  <h1>Code</h1>
   <ul id="recent_posts">
-    {% for post in site.posts limit: site.recent_posts %}
-      {% unless post.categories contains "code" %}
+    {% for post in site.posts %}
+      {% if post.categories contains "code" %}
         <li class="post">
           <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
         </li>
-      {% endunless %}
+      {% endif %}
     {% endfor %}
   </ul>
 </section>

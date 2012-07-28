@@ -1,0 +1,16 @@
+---
+layout: post
+title: "This site"
+date: 2012-07-07 07:07
+comments: true
+categories: code, javascript
+permalink: /code/this-site
+---
+
+Well, it's what you see here. The source is open, mostly so I have something to
+reference if I need to ask for help or if I want to check what I'm doing while
+away from home.
+
+The site enables me to post both publicly for professional reasons and privately
+for staying in touch with folks back home. It also includes my résumé and links
+to some code I've done.

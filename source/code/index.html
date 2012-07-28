@@ -5,12 +5,12 @@ layout: default
 <div class="blog-index">
   {% assign index = true %}
   {% for post in paginator.posts %}
-  {% unless post.categories contains "code" %}
+  {% if post.categories contains "code" %}
   {% assign content = post.content %}
     <article>
-      {% include article.html %}
+      {% include code_article.html %}
     </article>
-  {% endunless %}
+  {% endif %}
   {% endfor %}
   <div class="pagination">
     {% if paginator.next_page %}
@@ -23,9 +23,5 @@ layout: default
   </div>
 </div>
 <aside class="sidebar">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
+  {% include_array code_asides %}
 </aside>

@@ -1,0 +1,53 @@
+---
+layout: post
+title: "FinAnSu"
+date: 2012-07-07 07:07
+comments: true
+categories: code, c-sharp
+permalink: /code/finansu
+---
+
+[FinAnSu](https://github.com/brymck/finansu) aims to provide user-friendly tools
+for use in financial applications. The add-in is in its development stages, but
+it currently offers:
+
+* *Live, streaming [web import](http://brymck.github.com/finansu/web)
+  capabilities* (Excel 2002+), including custom functions for easily
+  [importing security prices](http://brymck.github.com/finansu/web#quote) from
+  Bloomberg.com, Google Finance and Yahoo! Finance
+* Functions that can [parse
+  CSVs](http://brymck.github.com/finansu/web#import_csv) on the web, including
+  custom functions to easily import stock quote data from
+  [Google Finance](http://brymck.github.com/finansu/web#google_history) and instrument
+  data from the [Fed H.15 release](http://brymck.github.com/finansu/web#h15_history)
+  (yields for Fed Funds, commercial paper, Treasuries, interest-rate swaps,
+  etc.).
+* Basic options pricing, including
+  [Black-Scholes](http://brymck.github.com/finansu/options#black_scholes),
+  [the options Greeks](http://brymck.github.com/finansu/options#greeks) and
+  [a few more complex options models](http://brymck.github.com/finansu/options#complex)
+* A bit on [FRAs](http://brymck.github.com/finansu/yield_curve#fra) (forward
+  rate agreements)
+* A continuously compounded rate
+  [interpolator](http://brymck.github.com/finansu/yield_curve#interpolation)
+  (need to add more: linear, cubic, cubic spline, etc.)
+* A Federal Reserve holiday calculator (need to add more for different
+  calendars, as well as roll date conventions)
+* A handful of tools for converting between discount factors and forward rates
+* Function to [automatically sort](http://brymck.github.com/finansu/other#sorting)
+  ranges that contain rows and columns of data
+* Some formatting macros for
+  [currencies](http://brymck.github.com/finansu/macro#currencies) and
+  [a few layout options](http://brymck.github.com/finansu/macro#layout) that
+  aren't easily accessible in Excel
+
+![FinAnSu in action](http://brymck.github.com/finansu/img/quote.gif)
+
+Repo:  
+<https://www.github.com/brymck/finansu>
+
+Documentation:  
+<http://brymck.github.com/finansu/>
+
+Download:  
+<https://github.com/brymck/finansu/downloads>
