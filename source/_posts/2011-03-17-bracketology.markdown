@@ -20,7 +20,7 @@ You can [download the spreadsheet here][download].
 And here are the current results if the favorite wins in every match-up, with
 games color-coded in grades of green (clear favorite) through red (no favorite):
 
-{% img /images/kenpom_0.png %}
+{% img /images/kenpom_0.png Original bracket %}
 
 What's most notable is that certain match-ups you wouldn't expect to be close
 have evenly-matched teams. Clemson, despite playing in the play-in game, could

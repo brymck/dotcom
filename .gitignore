@@ -1,8 +1,9 @@
 .bundle
 .DS_Store
-.sass-cache
 .gist-cache
 .pygments-cache
+.preview-mode
+.sass-cache
 _deploy
 public
 sass.old

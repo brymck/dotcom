@@ -69,18 +69,18 @@ github_skip_forks: true
 twitter_user: bryanmckelvey
 twitter_tweet_count: 1
 twitter_show_replies: true
-twitter_follow_button: true
+twitter_follow_button: false
 twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
 google_plus_one: true
-google_plus_one_size: small
+google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
 googleplus_user: bryan.mckelvey@gmail.com
-googleplus_hidden: false
+googleplus_hidden: true
 
 # Pinboard
 pinboard_user:

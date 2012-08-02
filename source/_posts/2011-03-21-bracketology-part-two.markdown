@@ -13,12 +13,12 @@ relationship between computed probabilities and actual results, and if you
 exclude near-certain games (i.e. the 1--16 and 2--15 games), correlation is
 actually negative as probability increases from 50%:
 
-{% img /images/bracketology_backtest.png %}
+{% img /images/bracketology_backtest.png Bracketology backtest %}
 
 So thus far we have little backtesting evidence of predictive reliability. That
 said, here's an update of the bracket with [kenpom probabilities][kenpom]:
 
-{% img /images/kenpom_2.png %}
+{% img /images/kenpom_2.png Bracket update %}
 
 I've updated the original spreadsheet with stuff like a Monte Carlo sim for the
 final four rounds, which gives the following probabilities for each team of
@@ -48,7 +48,7 @@ perennially inflated expectations, it's worth noting that this is the norm for
 the conference. Tracking conferences over the past decade and adjusting for the
 size of the conference, the Big East just hasn't been that successful:
 
-{% img /images/tourney_success_column.png %}
+{% img /images/tourney_success_column.png Big East %}
 
 Much of the reason the Big East has a reputation for being such a tough
 conference, one filled with teams that can beat each other, is because the

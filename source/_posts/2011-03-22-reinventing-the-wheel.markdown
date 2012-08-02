@@ -22,11 +22,11 @@ kanji, regardless of its reading, can be replaced by a single letter.
 
 ### Examples
 
-{% img /images/cun_name.png %}
+{% img /images/cun_name.png Bryan McKelvey %}
 
 [My name](/cun?romaji=buRAIan%20RII%20makkeruBII) (ブライアン・リー・マッケルビー _Buraian Rī Makkerubī_)
 
-{% img /images/yukiguni.png %}
+{% img /images/yukiguni.png The opening lines from Snow Country %}
 
 [The opening lines of Yasunari Kawabata's Snow Country](/apps/cun?romaji=kunizakai%20no%20nagai%20tonneru%20o%20nukeru%20to%20yukiguni%20deatta.)
 (国境の長いトンネルを抜けると雪国であった。 _Kunizakai no nagai tonneru o nukeru                     
@@ -72,7 +72,7 @@ r  | ra | ri  | ru  | re | ro | rya | ryu | ryo
 
 In cun, the above is represented thusly:
 
-[{% img /images/cun_main.png %}](/images/cun.png)
+[{% img /images/cun_main.png Japanese syllabary in cun %}](/images/cun.png)
 
 Click the above image to see the _entire_ alphabet and almost all possible
 symbols. What should stand out is how organized it is in comparison to

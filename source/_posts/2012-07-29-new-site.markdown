@@ -1,0 +1,68 @@
+---
+layout: post
+title: "New Site"
+date: 2012-07-29 00:26
+comments: true
+categories: programming
+---
+
+Or, better put, new site engine. The previous site, still visible at
+<http://old.brymck.com>, was mostly hand-rolled in PHP. While a useful
+experience, it's taught me the difficulties of doing everything yourself. And
+the frustrations of a language that
+[makes you think about things that you shouldn't have to think about][type_comparison]
+and [has a community willing to give the worst advice imagineable][w3schools]:
+
+``` php
+<?php
+$q=$_GET["q"];
+
+$con = mysql_connect('localhost', 'peter', 'abc123');
+if (!$con)
+{
+    die('Could not connect: ' . mysql_error());
+}
+
+mysql_select_db("ajax_demo", $con);
+
+$sql="SELECT * FROM user WHERE id = '".$q."'";
+```
+
+This has to be the most basic, most obviously wrong piece of code on the web. If
+some hapless webmaster copy-pasta'd this code into his own ajax.php, all you'd
+have to do is visit
+http://hissite.com/ajax.php?q=[Robert\');%20DROP%20TABLE%20user;\-\-][drop_tables]
+and voilà, site wrecked. That is, your SQL statement would become:
+
+``` sql
+SELECT * FROM user WHERE id = 'Robert'; DROP TABLE user;--'
+```
+
+That's more time than I need to spend bemoaning what's probably the most popular
+web language (on the most popular site explaining it to beginners), and my site
+was immune from such basic stupidities in the first place, but it's infuriating
+when bad advice is so prevalent. It indicates underlying issues in the quality
+of the community: not everyone, but enough that the laziness manifests itself
+regularly and makes maintaining the whole thing feel like fixing the house with
+duct tape. It might _work_, but that's not the point. The Ruby community, on the
+other hand, has at least been tremendously helpful, and that's attractive.
+
+So now I have this site, built using a static blog framework called
+[Octopress][octopress], itself based on [Jekyll][jekyll]. It's much easier to
+customize without having to dig into the guts of my old, slightly horrible code.
+Because it's static rather than generated on-the-fly, anything dynamic has been
+outsourced: pages are generated, comments come from [disqus][disqus], etc. I
+don't even need a database except for a few stray details, mostly due to
+programs I've written that hit the site.
+
+Also, as a curiosity, I have a Ruby on Rails site developed in parallel with
+this one at <http://brymck.herokuapp.com/>. Most of the content is identical. In
+the long run I'll probably be using the Rails one, but cheap hosting for non-PHP
+stuff in general is still not _there_ in my experience.
+
+  [octopress]:http://octopress.org/
+  [jekyll]:https://github.com/mojombo/jekyll
+  [type_comparison]:http://php.net/manual/en/types.comparisons.php
+  [w3schools]:http://en.w3schools.com/php/php_ajax_database.asp
+  [drop_tables]:http://xkcd.com/327/
+  [disqus]:http://disqus.com/

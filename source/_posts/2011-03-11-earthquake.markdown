@@ -23,7 +23,7 @@ in the high 5s of the Moment magnitude scale, which was certainly strong but
 only a tiny, tiny fraction of what folks in Sendai felt (like 0.002%). Here's
 where I was in relation to the quake:
 
-{% img /images/earthquake.png %}
+{% img /images/earthquake.png Where I was on March 11, 2011 %}
 
 The epicenter of the quake was around 8.9 MMS magnitude, which means it released
 around half the seismic energy of the Indian Ocean earthquake in 2004 that
