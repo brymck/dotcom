@@ -40,9 +40,9 @@ to work. However, here in Tokyo—where I live right downtown—lo and behold,
 the Level III exam is again an hour outside of civilization. C'est la vie, I
 guess. Maps of SF and Tokyo, respectively, for reference:
  
-{% img left http://maps.google.com/maps/api/staticmap?center=Brisbane,CA&zoom=10&size=360x360&maptype=roadmap&markers=color:blue|label:P|37.545972,-122.303667&markers=color:green|label:C|37.807394,-122.430825&markers=color:blue|label:P|37.60235,-122.370676&markers=color:red|label:M|37.793546,-122.401245&sensor=false %}
+{% img left http://maps.google.com/maps/api/staticmap?center=Brisbane,CA&amp;zoom=10&amp;size=360x360&amp;maptype=roadmap&amp;markers=color:blue|label:P|37.545972,-122.303667&amp;markers=color:green|label:C|37.807394,-122.430825&amp;markers=color:blue|label:P|37.60235,-122.370676&amp;markers=color:red|label:M|37.793546,-122.401245&amp;sensor=false San Francisco %}
 
-{% img right http://maps.google.com/maps/api/staticmap?center=Tokyo,Japan&zoom=10&size=360x360&maptype=roadmap&markers=color:green|label:C|35.705548,139.533264&markers=color:red|label:M|35.704918,139.755578&sensor=false %}
+{% img right http://maps.google.com/maps/api/staticmap?center=Tokyo,Japan&amp;zoom=10&amp;size=360x360&amp;maptype=roadmap&amp;markers=color:green|label:C|35.705548,139.533264&amp;markers=color:red|label:M|35.704918,139.755578&amp;sensor=false Tokyo %}
 
 * <span style="background-color:#fe6256;display:inline-block;text-align:center;width:12px;">M</span> = where I worked (SF) or live (Tokyo)
 * <span style="background-color:#64b949;display:inline-block;text-align:center;width:12px;">C</span> = this year's location

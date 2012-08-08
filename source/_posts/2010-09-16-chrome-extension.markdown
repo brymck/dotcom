@@ -18,11 +18,9 @@ you information on the fixed income, futures and stock markets. So, there you
 go, a simple little exercise that puts everything you need (and a lot of things
 you don't) a button click away:
 
-![Basic][basic]
+{% img /images/prisma_quotes/basic.png Basic %}
 
-![Basic][goog]
+{% img /images/prisma_quotes/goog.png Google %}
 
   [web_store]:https://chrome.google.com/extensions/detail/bhnbpahgjklokfhbaaifmgcjapolomgj
   [chrome]:http://www.google.com/chrome/intl/en/landing_chrome.html?hl=en
-  [basic]:/images/prisma_quotes/basic.png
-  [goog]:/images/prisma_quotes/goog.png

@@ -66,7 +66,7 @@ seemingly simple example, like pulling stock quotes.
 
 #### Excel Import Data from Web
 
-{% img right /images/finansu/excel_from_web.png %}
+{% img right /images/finansu/excel_from_web.png Excel data import %}
 
 The first solution is to use the built-in web import functions in Excel. This
 tool imports web tables, which hasn't been useful since
@@ -123,7 +123,7 @@ Bloomberg does something like this (in a much, much more sophisticated way)
 for their Excel add-in, which delivers data using the Bloomberg Professional
 application as the back-end.
 
-{% img right /images/finansu/live_quote.gif %}
+{% img right /images/finansu/live_quote.gif FinAnSu live quote %}
 
 Anyway, once you've installed everything, you would write something like
 `=LiveQuote("goog")` in Excel. The application will display `"#WAIT"` in

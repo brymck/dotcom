@@ -8,7 +8,7 @@ $link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !d
 $link-color-visited: $link-color;
 $link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
 
-$page-bg: #ffffff;
+$page-bg: #fafafa;
 $header-bg: none;  //#263347;
 $header-border: none;
 $title-color: #0d0d0d;

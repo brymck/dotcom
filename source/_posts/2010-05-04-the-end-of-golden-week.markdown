@@ -21,7 +21,7 @@ lunch this week where I waited in line for over an hour. The Japanese tolerance
 for (or, rather, love of) queuing up is beyond far mine. In case you were
 wondering about that lunch, though, here it is:
 
-{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBcf8RWM6SI/AAAAAAAADPs/42xNeKyqs50/IMG_0176.JPG %}
+{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBcf8RWM6SI/AAAAAAAADPs/42xNeKyqs50/IMG_0176.JPG Japanese-style lunch %}
 
 _**Outer ring** (clockwise from the top-left corner): ōtoro (the best cut of
 tuna), red snapper, tuna, red clam, eggplant, sea urchin, shrimp with mayo, eel,

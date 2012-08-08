@@ -111,7 +111,7 @@ else. It's bad enough that [the IMF is publicly telling Japan to pursue credible
 fiscal adjustment][japan].
 
 <object type="image/svg+xml" data="/images/debtgdp.svg" style="width:400px;height:400px">
-{% img /images/debtgdp.png %}
+{% img /images/debtgdp.png OECD debt to GDP %}
 </object>
 
   [ambrose]:http://blogs.telegraph.co.uk/finance/ambroseevans-pritchard/100005734/congress-blocks-indiscriminate-imf-aid-for-europe/

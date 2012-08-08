@@ -35,11 +35,11 @@ fortune even if made today.
 
 Today we're just hanging out in Tokyo, and tomorrow I'm meeting up with her mom in Tokyo then we're all (along with Maiko's brother, Shun) heading up to a hot spring in Nikkō. Shun just got a job at a manufacturing company in Nagoya, so we'll be celebrating.
 
-{% img left http://lh5.ggpht.com/_KdfpGnD-ohM/TBcf4w4-DFI/AAAAAAAADPA/it-MNogTwns/IMG_0165.JPG %}
+{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBcf4w4-DFI/AAAAAAAADPA/it-MNogTwns/IMG_0165.JPG Yokohama %}
 
-{% img left http://lh4.ggpht.com/_KdfpGnD-ohM/TBcf55F9LcI/AAAAAAAADPI/7ZelC7t0VVs/IMG_0167.JPG %}
+{% img http://lh4.ggpht.com/_KdfpGnD-ohM/TBcf55F9LcI/AAAAAAAADPI/7ZelC7t0VVs/IMG_0167.JPG Yokohama %}
 
-{% img left http://lh4.ggpht.com/_KdfpGnD-ohM/TBcf7W0392I/AAAAAAAADPg/T15YBYBP1ao/IMG_0172.JPG %}
+{% img http://lh4.ggpht.com/_KdfpGnD-ohM/TBcf7W0392I/AAAAAAAADPg/T15YBYBP1ao/IMG_0172.JPG Yokohama %}
 
 [Click here for more photos][photos] from Yokohama.
 

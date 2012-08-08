@@ -34,14 +34,14 @@ Pass rates are usually pretty bad; for my group it was 35% for Level I, 41% for
 Level II, and probably 50% for Level III:
 
 <object type="image/svg+xml" data="/images/cfa.svg" style="width:400px;height:400px">
-{% img /images/cfa.png" %}
+{% img /images/cfa.png CFA pass rates by year %}
 </object>
 
 You can crunch the numbers all sorts of ways, but a conservative estimate
 for passing all three on your first try in the minimum 2.5--3 years would be
 somewhere in the ballpark of 20--25%:
 
-{% img /images/cfa_perfect_2010.gif %}
+{% img /images/cfa_perfect_2010.gif CFA estimate %}
 
 And as the CFA will (hopefully) attest, I'm certified at half-baked
 number-crunching. Trust me, I'm a professional. Some other ways to look at it:
@@ -69,13 +69,13 @@ very little flair to the cooking style. The food is mostly okonomiyaki or
 monjayaki, mixes of batter, cabbage, and wide variety of meats and vegetables
 that comes out looking like a pancake. Darn good, though.
 
-{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBchpoQTDAI/AAAAAAAADVE/q3Wm6S3fi6o/s400/IMG_0225.JPG %}
+{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBchpoQTDAI/AAAAAAAADVE/q3Wm6S3fi6o/s400/IMG_0225.JPG Monjayaki %}
 
 And then there's the self-service style, like yakiniku, Korean-styled
 barbecue. You order cuts of meat and vegetables and grill them on gridirons over
 wood charcoal. Here are some shots of cow tongue (seriously, it's really good):
 
-{% img http://lh4.ggpht.com/_KdfpGnD-ohM/TBchnNvMOBI/AAAAAAAADUk/SWXA_V-3R9M/s400/IMG_0195.JPG %}
+{% img http://lh4.ggpht.com/_KdfpGnD-ohM/TBchnNvMOBI/AAAAAAAADUk/SWXA_V-3R9M/s400/IMG_0195.JPG Tongue %}
 
 And lastly, there's always the chance to do some good ol' fashioned
 Western-style barbecue at a local park, as Maiko and I did a few weeks
@@ -85,7 +85,7 @@ international meat products, and we wound up getting crocodile and ostrich (and
 chicken, beef and lamb). A fellow partier told some children in the park that
 the croc was alien meat. Their eyes filled with terror:
 
-{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBchoN71UpI/AAAAAAAADUw/vRljhL6fkZs/s400/IMG_0213.JPG %}
+{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBchoN71UpI/AAAAAAAADUw/vRljhL6fkZs/s400/IMG_0213.JPG Barbecue %}
 
 So here's to me getting through my professionals, y'all getting through
 graduation season, and everything else that we can put behind us as we look

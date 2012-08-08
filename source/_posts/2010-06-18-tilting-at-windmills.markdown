@@ -150,7 +150,7 @@ up around $41.4 million at the end of the 2009 fiscal year:
 > $78.9 million in costs (present value) related to swap terminations.
 
 <object type="image/svg+xml" data="/images/ny_swaps.svg" style="width:400px;height:400px">
-{% img /images/ny_swaps.png %}
+{% img /images/ny_swaps.png New York swaps performance %}
 </object>
 
 Heck, that's not just the executive summary, that's _the very first bullet

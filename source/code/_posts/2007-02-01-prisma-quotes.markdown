@@ -38,10 +38,10 @@ the options screen with the Clear button and start your own.
 
 Note that for some securities, certain price data and charts aren’t available.
 
-{% img https://lh4.googleusercontent.com/5uh3TQLY78d4E5CsCkpR4hdMkcWGEAMgp_nTv_5D-Wr7Wy1-Mvr1x_FT7FXLIc6uuuTvZpvSug=s400-h275-e365 %}
+{% img https://lh4.googleusercontent.com/5uh3TQLY78d4E5CsCkpR4hdMkcWGEAMgp_nTv_5D-Wr7Wy1-Mvr1x_FT7FXLIc6uuuTvZpvSug=s400-h275-e365 Prisma Quotes promo %}
 
-{% img https://lh3.googleusercontent.com/kLFERaamH6iBXypb66fZkxOmG2h9DSvnnbVWu4g4_2CoPG6G9FkjNFViM4kv3YGVA8m-KcoW=s400-h275-e365 %}
+{% img https://lh3.googleusercontent.com/kLFERaamH6iBXypb66fZkxOmG2h9DSvnnbVWu4g4_2CoPG6G9FkjNFViM4kv3YGVA8m-KcoW=s400-h275-e365 Prisma Quotes promo %}
 
-{% img https://lh4.googleusercontent.com/DP2fkk6P_jOYrA67TDIe3jwyZSKeocLGZTAhU7TqDERDjaw0S84vyBIXto4-SobGzAsH6nvV4g=s400-h275-e365 %}
+{% img https://lh4.googleusercontent.com/DP2fkk6P_jOYrA67TDIe3jwyZSKeocLGZTAhU7TqDERDjaw0S84vyBIXto4-SobGzAsH6nvV4g=s400-h275-e365 Prisma Quotes promo %}
 
-{% img https://lh3.googleusercontent.com/OdATCDSJSLtU4p1qcg7OTKrBcsw2sNWNZ4JXmCcxez09mZNYsNvNSUnDN5wNhZsilnISkn5FrQ=s400-h275-e365 %}
+{% img https://lh3.googleusercontent.com/OdATCDSJSLtU4p1qcg7OTKrBcsw2sNWNZ4JXmCcxez09mZNYsNvNSUnDN5wNhZsilnISkn5FrQ=s400-h275-e365 Prisma Quotes promo %}

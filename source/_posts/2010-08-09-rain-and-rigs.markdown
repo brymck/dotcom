@@ -20,7 +20,7 @@ Charlotte's been a lot like Tokyo. But really, Charlotte (and most places on the
 East Coast) cool down a lot at night and really heat up during the day. Tokyo's
 just semi-hot and muggy all the time:
 
-{% img /images/temperature_ranges.png %}
+{% img /images/temperature_ranges.png Temperature ranges for Charlotte and Tokyo %}
 
 It was kind of kept that way by the rain season. The imagery is a little
 exaggerated in the West; the rain season is not all rain all the time like

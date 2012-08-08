@@ -44,7 +44,7 @@ The add-in is in its development stages, but it currently offers:
   [a few layout options](http://brymck.github.com/finansu/macro#layout) that
   aren't easily accessible in Excel
 
-![FinAnSu in action](http://brymck.github.com/finansu/img/quote.gif)
+{% img http://brymck.github.com/finansu/img/quote.gif FinAnSu in action %}
 
 Repo:  
 <https://www.github.com/brymck/finansu>

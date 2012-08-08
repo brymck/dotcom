@@ -9,4 +9,4 @@ permalink: /code/powerpoint-productivity
 
 Adds some menu functions that PowerPoint ought to have, like the ability to paste over existing pictures, center objects, etc.
 
-{% img /images/powerpoint_productivity.png %}
+{% img /images/powerpoint_productivity.png PowerPoint Productivity %}

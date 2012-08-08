@@ -19,24 +19,24 @@ can also mean "monkey." So that's why they're monkeys: Japanese wordplay. Eight
 scenes depicting the life cycle of the monkey, including that famous one, are
 engraved on the stable of the shrine's sacred horses:
 
-{% img http://lh3.ggpht.com/_KdfpGnD-ohM/TBcgAga90jI/AAAAAAAADQg/uS2P4o0B0a8/IMG_1323.JPG %}
+{% img http://lh3.ggpht.com/_KdfpGnD-ohM/TBcgAga90jI/AAAAAAAADQg/uS2P4o0B0a8/IMG_1323.JPG Three wise monkeys %}
 
 _Yōmeimon_ - The gate leading to the main temple grounds is covered in statues of
 guardian lions, scenes of people (with apparent Chinese influence), and detailed
 lacquer work (higher-resolution picture here):
 
-{% img http://lh6.ggpht.com/_KdfpGnD-ohM/TBcgDOcaHJI/AAAAAAAADQ8/J77_bKAtp9s/IMG_1343.JPG %}
+{% img http://lh6.ggpht.com/_KdfpGnD-ohM/TBcgDOcaHJI/AAAAAAAADQ8/J77_bKAtp9s/IMG_1343.JPG Lacquer work %}
 
 And then you have the tomb of Tokugawa himself. His remains are held in a bronze
 urn, considerably less ostentatious than the rest of the temple:
 
-{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBcgFoPj1oI/AAAAAAAADRY/YNhNtjg6Lho/IMG_1362.JPG %}
+{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBcgFoPj1oI/AAAAAAAADRY/YNhNtjg6Lho/IMG_1362.JPG Tomb of Tokugawa %}
 
 We pretty much just walked by Rinnō-ji, and the last of UNESCO list is Futarasan
 Shrine. We didn't enter the shrine proper, but it has a famous scenic bridge
 called Shinkyō:
 
-{% img http://lh6.ggpht.com/_KdfpGnD-ohM/TBcgHBkGwiI/AAAAAAAADRs/Ja0BEjdtegQ/IMG_1378.JPG %}
+{% img http://lh6.ggpht.com/_KdfpGnD-ohM/TBcgHBkGwiI/AAAAAAAADRs/Ja0BEjdtegQ/IMG_1378.JPG Shinkyo %}
 
 The rest of what we did up in Nikkō was go to a hot spring resort. It was a
 Japanese-style hotel called a ryokan, which entails a few differences versus
@@ -54,7 +54,7 @@ usually between 100--110° F, so quite hot. You bathe before entering and then
 just relax for, well, as long as the heat is relaxing. Oh, here are some pics of
 the dinner and breakfast:
 
-{% img http://lh6.ggpht.com/_KdfpGnD-ohM/TBcgJnH8zWI/AAAAAAAADSE/2FFvXS6alqY/IMG_1388.JPG %}
+{% img http://lh6.ggpht.com/_KdfpGnD-ohM/TBcgJnH8zWI/AAAAAAAADSE/2FFvXS6alqY/IMG_1388.JPG Dinner %}
 
 * **Top row:** tempura (batter-fried shrimp and veggies), light seasonal soup,
   steamed beef and vegetables.
@@ -64,15 +64,15 @@ the dinner and breakfast:
 * **Bottom row:** veggies, tsuyu (light soy-based sauce for dipping tempura),
   pickled veggies, soy sauce, strawberry wine (not shown)
 
-{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBcgKaA8m2I/AAAAAAAADSM/CrJx8D2ZGXc/IMG_1398.JPG %}
+{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBcgKaA8m2I/AAAAAAAADSM/CrJx8D2ZGXc/IMG_1398.JPG Breakfast %}
 
 * **Top row:** oranges and plantains, oden, strawberry tea, egg and bacon.
 * **Middle row:** potato salad, salmon, seaweed salad and below it miso soup.
 * **Bottom row:** pickles (including a very sour plum), seaweed (for eating with
   rice), white rice.
 
-{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBcgK_4CrjI/AAAAAAAADSQ/6nOO7g90lYU/IMG_1399.JPG %}
+{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBcgK_4CrjI/AAAAAAAADSQ/6nOO7g90lYU/IMG_1399.JPG The outside bath %}
 
-{% img http://lh3.ggpht.com/_KdfpGnD-ohM/TBcgMOY3z-I/AAAAAAAADSc/zXi94tThRg0/IMG_1411.JPG %}
+{% img http://lh3.ggpht.com/_KdfpGnD-ohM/TBcgMOY3z-I/AAAAAAAADSc/zXi94tThRg0/IMG_1411.JPG The Kinu River %}
 
   [seiza]:http://en.wikipedia.org/wiki/Seiza

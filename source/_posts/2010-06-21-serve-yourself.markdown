@@ -27,7 +27,7 @@ wound up at the hot pot place because the sushi place we wanted to try out had
 a ridiculous line, though. We gave up and decided to walk around until we saw a
 place that looked good, which usually works out just fine in Tokyo.
 
-{% img http://lh3.ggpht.com/_KdfpGnD-ohM/TBchyE63gnI/AAAAAAAADV0/ldeoOqpw02E/IMG_0012.JPG %}
+{% img http://lh3.ggpht.com/_KdfpGnD-ohM/TBchyE63gnI/AAAAAAAADV0/ldeoOqpw02E/IMG_0012.JPG Hinabe %}
 
 The following night was kushiage. Ever been to a state fair where they'll fry
 everything from meat to Snickers to the batter itself? Well, in the same spirit,
@@ -37,7 +37,7 @@ nomi-hōdai (all-you-can-drink). As I'm fond of saying, "it's not an opportunity
 it's a challenge." The safe go with chicken, the daring go with cheese rice cake
 donuts.
 
-{% img http://lh3.ggpht.com/_KdfpGnD-ohM/TBch317kjEI/AAAAAAAADWM/uBB1cJPFbqY/IMG_0019.JPG %}
+{% img http://lh3.ggpht.com/_KdfpGnD-ohM/TBch317kjEI/AAAAAAAADWM/uBB1cJPFbqY/IMG_0019.JPG Kushiage %}
 
 Then there's shabu-shabu, named after the sound that meat makes when you swish
 it through boiling broth (okay, the Japanese aren't great with onomatopoeia). I
@@ -47,7 +47,7 @@ pork, sauce and spices, along with side dishes like fish, crab and, of course,
 pickled salmon cartilage. Again, we cooked everything at our table, with servers
 nudging fresh cuts of pork at us as we progressed.
 
-{% img http://lh4.ggpht.com/_KdfpGnD-ohM/TBch9b13f7I/AAAAAAAADWk/GOWbi02ZaDE/IMG_0036.JPG %}
+{% img http://lh4.ggpht.com/_KdfpGnD-ohM/TBch9b13f7I/AAAAAAAADWk/GOWbi02ZaDE/IMG_0036.JPG Shabu-shabu %}
 
 We also got zarusoba (cold buckwheat noodles served with soy-based dipping
 sauce), went to a European-style café, and found an imported beer bar. So all in
@@ -61,7 +61,7 @@ playing at the Tokyo Dome that day, and dutifully waiting out the 85° degree
 heat with their sun umbrellas was a line of young and middle-aged women about
 half a mile long:
 
-{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBchvVsMveI/AAAAAAAADVo/5uyq3xSZ5MM/IMG_0008.JPG %}
+{% img http://lh5.ggpht.com/_KdfpGnD-ohM/TBchvVsMveI/AAAAAAAADVo/5uyq3xSZ5MM/IMG_0008.JPG Women lining up %}
 
 They must have been there for hours. I caught a few teary eyes and breathy
 sighs when the voice of one of the band members could be heard over the
@@ -72,7 +72,7 @@ Of course, when you think about the reaction the Beatles met in America, it's
 hard to get too down on domestic female fans. It's not as hard with the male
 fans. I also stumbled across the sign below:
 
-{% img http://lh6.ggpht.com/_KdfpGnD-ohM/TBchq9ML2-I/AAAAAAAADVU/ao-SZqZ5HHg/s512/IMG_0001.JPG %}
+{% img http://lh6.ggpht.com/_KdfpGnD-ohM/TBchq9ML2-I/AAAAAAAADVU/ao-SZqZ5HHg/s512/IMG_0001.JPG AKB48 sign %}
 
 It's an advertisement for AKB48, an all-girl pop group, basically 3 groups of
 sixteen girls apiece, ages 14 to their mid-20s. You might expect that tweeners
